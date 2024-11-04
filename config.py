@@ -4,10 +4,10 @@
 
 # 绑定的 IP, 服务器端请使用公网 IP
 # 如果不确定可以使用 0.0.0.0
-host = "127.0.0.1"
+host = "52.74.66.201"
 
 # API 服务的端口
 port = 6001
 
 # 绑定域名, 含协议字段不含端口号
-domain = "http://localhost"
+domain = "http://test.nikoyu.top"
